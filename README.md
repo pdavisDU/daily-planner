@@ -7,3 +7,7 @@ This is a daily planner tool. It displays the current day and also hours of the 
 ![image](/Users/PaulDavis/Desktop/homework-4/daily-planner/Screen Shot 2022-02-21 at 5.00.55 PM.png)
 
 Here is the working planner: https://pdavisdu.github.io/daily-planner/
+
+license: MIT
+
+contact: pdavisDU@gmail.com
